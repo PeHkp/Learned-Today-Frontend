@@ -1,0 +1,34 @@
+.login-image {
+  width: 70%;
+}
+.main form {
+  width: 70%;
+}
+.inputs-body-login {
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.inputs-body-login button.button-form {
+  width: 100%;
+  padding: 15px 25px;
+  border-radius: 8px;
+  border: 1px solid #7575ca;
+  background: #4343d0;
+  color: #fff;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.link-button-login {
+  margin-top: 20px;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #4343d0;
+  font-weight: 600;
+}

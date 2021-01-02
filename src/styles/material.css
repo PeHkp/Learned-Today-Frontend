@@ -1,0 +1,7 @@
+.MuiDrawer-paper {
+  width: 80%;
+}
+.MuiFormControl-root.MuiTextField-root {
+  margin-top: 10px;
+  width: 100%;
+}
